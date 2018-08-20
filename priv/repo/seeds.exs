@@ -4,7 +4,13 @@ alias PhoenixTrello.{Repo, User}
   %{
     first_name: "John",
     last_name: "Doe",
-    email: "john@phoenix-trello.com",
+    email: "john.doe@phoenix-trello.com",
+    password: "12345678"
+  },
+  %{
+    first_name: "Mary",
+    last_name: "Poppins",
+    email: "mary.poppins@phoenix-trello.com",
     password: "12345678"
   },
 ]

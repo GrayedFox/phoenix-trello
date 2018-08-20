@@ -21,3 +21,7 @@ erl_crash.dump
 
 *.log
 priv/static
+
+# cypress videos and screenshots
+cypress/screenshots
+cypress/videos

@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "email": "john.doe@phoenix-trello.com",
+    "password": "12345678"
+  },
+  {
+    "id": 2,
+    "name": "Mary Poppins",
+    "email": "mary.poppins@phoenix-trello.com",
+    "password": "12345678"
+  }
+]
